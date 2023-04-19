@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <p>
   Hello I am a new developer specializing in machine learning.<br/>
   We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
+  I enjoy computer game. <br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmdkims&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&layout=compact&hide_border=true&theme=white)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soeun-Jang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soeun-Jang&layout=compact&hide_border=true&theme=white)
   
  
 
